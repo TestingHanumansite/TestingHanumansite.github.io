@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Images on Hanuman Chalisa Hindi</title>
-    <link>http://example.org/image/</link>
+    <link>https://testinghanumansite.github.io/image/</link>
     <description>Recent content in Images on Hanuman Chalisa Hindi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 May 2017 08:29:55 +0530</lastBuildDate>
     
-	<atom:link href="http://example.org/image/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://testinghanumansite.github.io/image/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Shree Hanumate</title>
-      <link>http://example.org/image/my-next-book/</link>
+      <link>https://testinghanumansite.github.io/image/my-next-book/</link>
       <pubDate>Wed, 17 May 2017 08:29:55 +0530</pubDate>
       
-      <guid>http://example.org/image/my-next-book/</guid>
+      <guid>https://testinghanumansite.github.io/image/my-next-book/</guid>
       <description></description>
     </item>
     
