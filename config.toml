@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Hanuman Chalisa Hindi"
+theme = "hugo_theme_robust"
+backgroundColor="orange"
+Paginate = "10"
+PaginatePath = "page"
+page="amp"
