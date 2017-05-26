@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hanuman Chalisa Hindi</title>
-    <link>https://testinghanumansite.github.io/</link>
-    <description>Recent content on Hanuman Chalisa Hindi</description>
+    <title>Posts on Hanuman Chalisa Hindi</title>
+    <link>https://testinghanumansite.github.io/post/</link>
+    <description>Recent content in Posts on Hanuman Chalisa Hindi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 May 2017 15:45:16 +0530</lastBuildDate>
     
-	<atom:link href="https://testinghanumansite.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://testinghanumansite.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -35,15 +35,6 @@
       <pubDate>Fri, 19 May 2017 15:45:04 +0530</pubDate>
       
       <guid>https://testinghanumansite.github.io/post/tryingot1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shree Hanumate</title>
-      <link>https://testinghanumansite.github.io/image/my-next-book/</link>
-      <pubDate>Wed, 17 May 2017 08:29:55 +0530</pubDate>
-      
-      <guid>https://testinghanumansite.github.io/image/my-next-book/</guid>
       <description></description>
     </item>
     

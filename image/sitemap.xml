@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://testinghanumansite.github.io/post/tryingot3/</loc>
+    <lastmod>2017-05-19T15:45:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://testinghanumansite.github.io/post/tryingot2/</loc>
+    <lastmod>2017-05-19T15:45:08+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://testinghanumansite.github.io/post/tryingot1/</loc>
+    <lastmod>2017-05-19T15:45:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://testinghanumansite.github.io/image/my-next-book/</loc>
+    <lastmod>2017-05-17T08:29:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://testinghanumansite.github.io/post/my-next-next/</loc>
+    <lastmod>2017-05-17T08:27:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://testinghanumansite.github.io/post/my-next-book/</loc>
+    <lastmod>2017-05-17T08:25:41+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://testinghanumansite.github.io/post/tryingot/</loc>
+    <lastmod>2017-05-16T23:12:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://testinghanumansite.github.io/post/good-to-great/</loc>
+    <lastmod>2017-05-16T23:12:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://testinghanumansite.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://testinghanumansite.github.io/</loc>
+    <lastmod>2017-05-19T15:45:16+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://testinghanumansite.github.io/image/</loc>
+    <lastmod>2017-05-17T08:29:55+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://testinghanumansite.github.io/post/</loc>
+    <lastmod>2017-05-19T15:45:16+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://testinghanumansite.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
