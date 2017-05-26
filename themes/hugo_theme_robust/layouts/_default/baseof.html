@@ -22,7 +22,10 @@
 
   <body>
     {{ if ne (getenv "HUGO_ENV") "DEV" }}
-    {{ template "_internal/google_analytics.html" . }}
+    <amp-analytics type="googleanalytics" id="analytics1">
+      <script type="application/json"> { "vars": { "account": {{ .Site.GoogleAnalytics }}}, "triggers": { "trackPageview": { "on": "visible", "request": "pageview" } } }
+      </script>
+    </amp-analytics>
     {{ end }}
 
     <header class="l-header">
